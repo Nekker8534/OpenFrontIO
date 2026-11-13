@@ -1,0 +1,40 @@
+{
+  "name": "poland",
+  "nations": [
+    {
+      "coordinates": [95, 375],
+      "name": "Germany",
+      "flag": "de"
+    },
+    {
+      "coordinates": [620, 164],
+      "name": "Russia",
+      "flag": "ru"
+    },
+    {
+      "coordinates": [837, 168],
+      "name": "Lithuania",
+      "flag": "lt"
+    },
+    {
+      "coordinates": [904, 406],
+      "name": "Belarus",
+      "flag": "by"
+    },
+    {
+      "coordinates": [946, 638],
+      "name": "Ukraine",
+      "flag": "ua"
+    },
+    {
+      "coordinates": [774, 872],
+      "name": "Czech Republic",
+      "flag": "cz"
+    },
+    {
+      "coordinates": [320, 754],
+      "name": "Slovakia",
+      "flag": "sk"
+    }
+  ]
+}
